@@ -1,6 +1,13 @@
 # 3d-portfolio-framer-motion
 A stunning 3D portfolio created with the powerful combination of Three.js, Framer Motion, Vite + React
 
+
+https://github.com/Seyma44/3d-portfolio-framer-motion/assets/3766249/52f9b6cb-89f9-492c-8ef8-53a4d4d6dcff
+
+
+https://github.com/Seyma44/3d-portfolio-framer-motion/assets/3766249/e2b19af6-94f5-4d26-a80f-d8c35141cc49
+
+
 # 3D Portfolio
 Welcome to the 3D Portfolio repository! This repository contains the code and assets for building an immersive and visually captivating portfolio using Three.js, Framer Motion with Vite + React.
 
