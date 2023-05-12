@@ -1,0 +1,11 @@
+Model Information:
+* title:	Post Duck
+* source:	https://sketchfab.com/3d-models/post-duck-53a839ce1ce84fe9b1cfb136e89c461b
+* author:	Maria Beatriz (https://sketchfab.com/Banana.Grill)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Post Duck" (https://sketchfab.com/3d-models/post-duck-53a839ce1ce84fe9b1cfb136e89c461b) by Maria Beatriz (https://sketchfab.com/Banana.Grill) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
