@@ -37,7 +37,7 @@ To start the development server and view the portfolio locally, follow these ste
 <code>npm run dev</code></br>
 or</br>
 <code>yarn dev</code>
-- Open your web browser and visit http://localhost:3000 to see the portfolio in action.
+- Open your web browser and visit http://localhost:5173/ to see the portfolio in action.
 
 Feel free to customize the content, add your projects, and modify the portfolio to fit your personal branding. The project files are organized in a structured manner to make it easy to navigate and modify as needed.
 
