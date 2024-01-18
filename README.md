@@ -23,7 +23,7 @@ The 3D Portfolio is a web-based application that showcases your creative work us
 
 ## Installation
 - Clone the repository:</br>
-<code>git clone https://github.com/your-username/3d-portfolio.git</code>
+<code>git clone https://github.com/Seyma44/3d-portfolio-framer-motion.git</code>
 - Navigate to the project directory:</br>
 <code>cd 3d-portfolio</code>
 - Install the dependencies:</br>
